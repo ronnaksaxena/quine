@@ -5,8 +5,8 @@ CXXFLAGS = -std=c++11 -Wall -Werror -Wextra
 # Choose the language you intend to use use, either C++ (cpp) or
 # python. Uncomment exactly one of the following three lines.
 #target: unspecified
-target: python
-#target: cppp
+#target: python
+target: cppp
 
 # Message if language not specified
 unspecified:
